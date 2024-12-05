@@ -23,9 +23,13 @@
  ## Benefits
   - The implementation of the PySpark data exploration and cleaning solution resulted in the following benefits for data engineers:
     • Efficiency: Automated data exploration and cleaning processes reduced manual effort and time spent on tedious tasks.
+    
     • Scalability: PySpark's distributed computing capabilities allowed for seamless scalability to handle large volumes of financial data.
+    
     • Data Quality: Improved data quality and consistency through standardized cleaning and normalization techniques.
+    
     • Structured Database: Transforming the dataset into a normalized form facilitated easier database management and querying.
+    
     • Collaboration: Enhanced collaboration among data engineers and analysts
       through standardized data preparation workflows.
 
